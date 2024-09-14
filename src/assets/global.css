@@ -1,5 +1,5 @@
 *{
     margin: 0;
-    background-image: url(./background.png);
-    background-size: 100vw 100vh;
+    padding: 0;
+    box-sizing: border-box;
 }
