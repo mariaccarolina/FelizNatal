@@ -1,9 +1,10 @@
-<template>
-  <h1>oiii</h1>
-</template>
-
-<script>
+<script setup>
+import Inicio from "./components/Inicio.vue"
 </script>
+
+<template>
+<Inicio/>
+</template>
 
 <style>
 </style>
