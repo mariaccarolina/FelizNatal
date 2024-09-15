@@ -23,8 +23,8 @@ $font-texto:"Roboto", sans-serif;
 
     img{
         width: 25vw;
-         @media (max-width: 450px){
-         width: 70vw;
+         @media (max-width: 750px){
+         width: 60vw;
     }
     }
 
