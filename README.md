@@ -1,29 +1,23 @@
-# .
+# 🚀 Projeto Feliz Natal 📱
 
-This template should help get you started developing with Vue 3 in Vite.
+Bem-vindo ao meu projeto Vue.js! 🎉 Este repositório demonstra a criação de uma aplicação Vue moderna utilizando uma abordagem de **componentização** e o recurso de **refs** para manipulação dinâmica de componentes.Estou implementando a lógica do cronometro.
 
-## Recommended IDE Setup
+## 💻 **Tecnologias Usadas**
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- **Vue.js**: Framework progressivo para construção de interfaces de usuário.
+- **SCSS**: Para estilização avançada e modular, usei variáveis e @mixin.
 
-## Customize configuration
+## 📸 **Visualização do Projeto**
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+![Preview do Projeto](https://github.com/mariaccarolina/FelizNatal/blob/main/src/assets/feliz-natal-one.vercel.app_.png?raw=true)  
 
-## Project Setup
+## 📦 **Instalação e Execução**
 
-```sh
+Para começar, clone este repositório e instale as dependências:
+
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
+cd seu-repositorio
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
 npm run build
 ```
