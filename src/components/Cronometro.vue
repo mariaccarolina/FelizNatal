@@ -4,7 +4,7 @@
 <template>
     <div class="container-cronometro">
         <h3>Tempo limitado</h3>
-        <p>Nessas festas de fim de ano mande um presente para a pessoa amada e compartilhe a alegria do Natal.</p>
+        <p class="texto">Nessas festas de fim de ano mande um presente para a pessoa amada e compartilhe a alegria do Natal.</p>
         <h2>10d -24h - 01m  - 52s</h2>
         <img src="https://github.com/mariaccarolina/FelizNatal/blob/main/src/assets/illustration.png?raw=true" alt="presentes de natal">
     </div>
@@ -45,7 +45,7 @@ h3{
     }
 }
 
-p{
+.texto{
     font-family: $font-titulos;
     width: 30vw;
     text-align: center;

@@ -1,4 +1,6 @@
-<script></script>
+<script>
+// Inserindo a lógica
+</script>
 
 <template>
   <section>
