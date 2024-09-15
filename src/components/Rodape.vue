@@ -15,6 +15,8 @@ footer{
     justify-content: space-between;
     padding: 0 10%;
     background-color: #FFE9E8;
+    height: 8vh;
+    align-items: center;
 
     @media (max-width: 900px){
         flex-direction: column;
